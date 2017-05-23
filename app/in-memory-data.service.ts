@@ -13,7 +13,7 @@ export class InMemoryDataService implements InMemoryDbService {
         ];
 
         let carros: any[] = [
-            {id: 1, descricao: 'Camaro'},
+            {id: 1, descricao: 'Camar'},
             {id: 2, descricao: 'Mustange'}
         ];
 
